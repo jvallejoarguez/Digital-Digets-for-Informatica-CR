@@ -40,7 +40,7 @@ This system is designed with a responsive user interface and utilizes a MySQL da
 
 ## Technology Stack
 
-- **Frontend**: HTML, CSS (with Google Fonts for styling).
+- **Frontend**: HTML, CSS (with Google Fonts for styling) and JS (to hide/show all the divs and interactiveness).
 - **Backend**: PHP (session-based authentication).
 - **Database**: MySQL (user data, copy quotas, and receipts).
 
@@ -139,7 +139,7 @@ This system is designed with a responsive user interface and utilizes a MySQL da
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This is an internship project, feel free to use the code. InformaticaCR is a registered brand.
 
 ---
 
